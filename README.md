@@ -197,17 +197,6 @@ response = model.generate_content(prompt)
 
 ---
 
-## 👥 Team
-
-| Name               | Email               | Signature |
-|--------------------|---------------------|-----------|
-| Alan Uthuppan      | aju44@drexel.edu    | AJU       |
-| Arya Monani        | am5446@drexel.edu   | AM        |
-| Sushant Mahalle    | scm364@drexel.edu   | SCM       |
-| Valentina Ozornina | vo55@drexel.edu     | VO        |
-
----
-
 ## ⚙️ Installation Instructions
 
 ### 1. Clone the Repository
