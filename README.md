@@ -1,6 +1,4 @@
 # 🧠 Supply Sentinel – AI Agent to Predict Disruptions in Supply Chain  
-**Course**: INFO 607 – Spring 2025  
-**Team Members**: Arya Monani, Sushant Mahalle, Alan Uthuppan, Valentina Ozornina  
 
 ---
 
